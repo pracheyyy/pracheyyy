@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prachi Deepak Patil</h1>
 <h3 align="center">full stack java developer</h3>
 
-- 📫 How to reach me **prachipatilm610@gmail.com**
+## 🚀 About Me
+
+- 🎓 2nd Year B.Tech IT Student
+- 💻 Learning Java + Spring Boot
+- 📚 Solving DSA & LeetCode
+- 🌱 Exploring AIML
 
 ## 🛠 Tech Stack
 
@@ -32,4 +37,6 @@ UI/UX  |  Figma  |  Canva
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/prachi-patil-b261682a6/)
+- 📫 How to reach me
+- Email: **prachipatilm610@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/prachi-patil-b261682a6/**
