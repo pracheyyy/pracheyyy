@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Prachi Deepak Patil</h1>
 
 <h3 align="center">
@@ -7,29 +7,28 @@ Full Stack Web Developer | Java & Spring Boot Enthusiast | DSA Learner
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 2nd Year B.Tech IT Student
 - 💻 Passionate about Full Stack Web Development
 - ☕ Currently learning Java & Spring Boot
 - 📚 Solving DSA & LeetCode problems
 - 🌱 Exploring AI/ML and modern technologies
-- 🎯 Goal: Become a skilled Software Engineer at top MNCs
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-### 🎨 Frontend
+###  Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,7 +38,7 @@ Full Stack Web Developer | Java & Spring Boot Enthusiast | DSA Learner
 
 ---
 
-### ⚙️ Backend
+###  Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -48,49 +47,59 @@ Full Stack Web Developer | Java & Spring Boot Enthusiast | DSA Learner
 
 ---
 
-### 🗄️ Database
+###  Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 🎨 Designing Tools
+###  Designing Tools
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+###  Development Tools
 
-### 🧠 Ikigai – Mental Health Predictor
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-AI-based mental health prediction and analysis platform.
 
-### ⚔️ EduKnights
+##  Featured Projects
 
-1v1 battle-based learning platform for MHT-CET preparation.
+###  1) Ikigai – Mental Health Predictor
+An AI-powered mental health analysis platform that predicts potential mental health risks using machine learning techniques. Features include user assessments, predictive insights, and personalized recommendations to promote mental well-being.
 
-### 🚦 Smart Traffic Management System
+###  2) EduKnights
+A 1v1 battle-based learning platform designed for MHT-CET preparation. Students compete in real-time subject battles, track their progress through leaderboards, and improve their exam readiness through gamified learning experiences.
 
-Intelligent traffic monitoring and management solution.
+###  3) Smart Traffic Management System
+An intelligent traffic monitoring and management solution that analyzes real-time traffic data to optimize signal timings, reduce congestion, and improve road safety. The system leverages data analytics and automation to enhance urban traffic flow.
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pracheyyy&show_icons=true&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/pracheyyy/pracheyyy/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pracheyyy&theme=tokyonight" />
 </p>
 
+##  LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pracheyy?theme=dark&font=Baloo" />
+</p>
+
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
 
@@ -107,4 +116,3 @@ Intelligent traffic monitoring and management solution.
 ---
 
 <h3 align="center">✨ Code • Learn • Build • Repeat ✨</h3>
-```
