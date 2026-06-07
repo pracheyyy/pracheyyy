@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prachi Deepak Patil</h1>
 
 <h3 align="center">
-Full Stack Web Developer | Java & Spring Boot Enthusiast | DSA Learner
+Full Stack Web Developer| DSA 
 </h3>
 
 ---
