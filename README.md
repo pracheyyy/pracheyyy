@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Prachi Deepak Patil</h1>
 
 <h3 align="center">
-Full Stack Web Developer | DSA 
+Frontend Developer | Full Stack Web | DSA | C++ , Java , Python , C |
 </h3>
 
 ---
