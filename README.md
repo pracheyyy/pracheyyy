@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prachi Patil</h1>
+<img width="1731" height="2727" alt="image" src="https://github.com/user-attachments/assets/b37684a9-c163-4719-ad82-c23382a10d8d" /><h1 align="center">Hi 👋, I'm Prachi Patil</h1>
 
 <h3 align="center">
  Full Stack Web | Data Science | ML | Agentic AI | DSA 
@@ -10,9 +10,9 @@
 
 - 🎓 2nd Year B.Tech IT Student
 - 💻 Passionate about Full Stack Web Development
-- ☕ Currently learning Java & Spring Boot
+- 🌱 Exploring Data Science and ML
+- ☕ Currently learning Agentic AI 
 - 📚 Solving DSA & LeetCode problems
-- 🌱 Exploring AI/ML and modern technologies
 
 ---
 ##  Tech Stack
