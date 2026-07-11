@@ -1,4 +1,4 @@
-<img width="1731" height="2727" alt="image" src="https://github.com/user-attachments/assets/b37684a9-c163-4719-ad82-c23382a10d8d" /><h1 align="center">Hi 👋, I'm Prachi Patil</h1>
+<h1 align="center">Hi 👋, I'm Prachi Patil</h1>
 
 <h3 align="center">
  Full Stack Web | Data Science | ML | Agentic AI | DSA 
