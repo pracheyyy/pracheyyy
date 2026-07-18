@@ -44,17 +44,6 @@
 
 </p>
 
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pracheyyy/pracheyyy/output/github-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pracheyyy&theme=tokyonight" />
-</p>
-
 ##  Connect With Me
 
 <p align="left">
